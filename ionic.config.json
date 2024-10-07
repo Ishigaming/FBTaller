@@ -1,0 +1,7 @@
+{
+  "name": "FBTaller",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
